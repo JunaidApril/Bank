@@ -26,13 +26,13 @@ of infrastructure technologies
 
 The solution is organized into four main projects:
 
--   **Bank.API** -- Handles HTTP requests, responses and API-level
+-   **Bank.API** - Handles HTTP requests, responses and API-level
     concerns.
--   **Bank.Application** -- Contains application workflows and
+-   **Bank.Application** - Contains application workflows and
     coordinates business operations.
--   **Bank.Domain** -- Contains core business entities, rules and domain
+-   **Bank.Domain** - Contains core business entities, rules and domain
     events.
--   **Bank.Infrastructure** -- Handles database access, external
+-   **Bank.Infrastructure** - Handles database access, external
     integrations and background processing.
 
 The main design patterns used are:
