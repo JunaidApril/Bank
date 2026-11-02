@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Problem Analysis &amp; Solutions.md" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Bank.API/Bank.API.csproj" />
+  <Project Path="Bank.Application/Bank.Application.csproj" />
+  <Project Path="Bank.Domain/Bank.Domain.csproj" />
+  <Project Path="Bank.Infrastructure/Bank.Infrastructure.csproj" />
+</Solution>

@@ -1,0 +1,12 @@
+C:\Code\Sanlam\Bank\Bank.Domain\bin\Release\net10.0\Bank.Domain.deps.json
+C:\Code\Sanlam\Bank\Bank.Domain\bin\Release\net10.0\Bank.Domain.dll
+C:\Code\Sanlam\Bank\Bank.Domain\bin\Release\net10.0\Bank.Domain.pdb
+C:\Code\Sanlam\Bank\Bank.Domain\obj\Release\net10.0\Bank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Sanlam\Bank\Bank.Domain\obj\Release\net10.0\Bank.Domain.AssemblyInfoInputs.cache
+C:\Code\Sanlam\Bank\Bank.Domain\obj\Release\net10.0\Bank.Domain.AssemblyInfo.cs
+C:\Code\Sanlam\Bank\Bank.Domain\obj\Release\net10.0\Bank.Domain.csproj.CoreCompileInputs.cache
+C:\Code\Sanlam\Bank\Bank.Domain\obj\Release\net10.0\Bank.Domain.sourcelink.json
+C:\Code\Sanlam\Bank\Bank.Domain\obj\Release\net10.0\Bank.Domain.dll
+C:\Code\Sanlam\Bank\Bank.Domain\obj\Release\net10.0\refint\Bank.Domain.dll
+C:\Code\Sanlam\Bank\Bank.Domain\obj\Release\net10.0\Bank.Domain.pdb
+C:\Code\Sanlam\Bank\Bank.Domain\obj\Release\net10.0\ref\Bank.Domain.dll

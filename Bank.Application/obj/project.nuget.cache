@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LzTxsy1dxzg=",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Sanlam\\Bank\\Bank.Application\\Bank.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junai\\.nuget\\packages\\fluentvalidation\\12.2.0\\fluentvalidation.12.2.0.nupkg.sha512",
+    "C:\\Users\\junai\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.2.0\\fluentvalidation.dependencyinjectionextensions.12.2.0.nupkg.sha512",
+    "C:\\Users\\junai\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.14\\microsoft.extensions.dependencyinjection.abstractions.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
